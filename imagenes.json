@@ -1,0 +1,212 @@
+[
+  {
+    "name":"Shadow of Despair V1",
+    "url": "/images/demon1.png",
+    "ia_name":"Krita",
+    "prompt": "Create a terrifying monster that embodies fear and horror. The creature should have grotesque features: sharp, elongated teeth, glowing red eyes that seem to pierce through the darkness, and a twisted, contorted body covered in tattered, decaying skin. It should be towering over its surroundings, with long, clawed hands reaching out menacingly. The atmosphere should be dark and eerie, with a foggy backdrop and dim lighting, enhancing the sense of dread. Include elements like sharp claws and menacing horns to amplify its frightful appearance. The monster should appear as if it’s lurking in the shadows, ready to pounce.",
+    "etiquetas": ["terror", "monstruo", "sombra"]
+  },
+  {
+    "name":"Shadow of Despair V2",
+    "ia_name":"Krita",
+    "url": "/images/demon2.png",
+    "prompt": "Create a terrifying monster that embodies fear and horror. The creature should have grotesque features: sharp, elongated teeth, glowing red eyes that seem to pierce through the darkness, and a twisted, contorted body covered in tattered, decaying skin. It should be towering over its surroundings, with long, clawed hands reaching out menacingly. The atmosphere should be dark and eerie, with a foggy backdrop and dim lighting, enhancing the sense of dread. Include elements like sharp claws and menacing horns to amplify its frightful appearance. The monster should appear as if it’s lurking in the shadows, ready to pounce.",
+    "etiquetas": ["terror", "monstruo", "sombra"]
+  },
+  {
+    "name":"Face of Malevolence V1",
+    "ia_name":"Krita",
+    "url":"/images/demon3.png",
+    "prompt":"Create a terrifying monster that embodies fear and horror, focusing solely on the shoulders and head. The creature should have grotesque features: an oversized, misshapen head with sharp, elongated teeth protruding from a twisted mouth, and glowing red eyes that seem to burn with malevolence. Its skin should be a sickly, decaying color, with deep, festering wounds and twisted scars. The head should be disproportionately large for its shoulders, creating an unsettling appearance. Exaggerate the monstrous aspects with long, pointed ears and menacing horns jutting out in different directions. The atmosphere should be dark and eerie, enhancing the sense of dread as if the monster is peering out from the shadows, ready to unleash terror.",
+    "etiquetas": ["terror", "monster", "demon"]
+  },
+  {
+    "name":"Face of Malevolence V2",
+    "ia_name":"Krita",
+    "url":"/images/demon4.png",
+    "prompt":"Create a terrifying monster that embodies fear and horror, focusing solely on the shoulders and head. The creature should have grotesque features: an oversized, misshapen head with sharp, elongated teeth protruding from a twisted mouth, and glowing red eyes that seem to burn with malevolence. Its skin should be a sickly, decaying color, with deep, festering wounds and twisted scars. The head should be disproportionately large for its shoulders, creating an unsettling appearance. Exaggerate the monstrous aspects with long, pointed ears and menacing horns jutting out in different directions. The atmosphere should be dark and eerie, enhancing the sense of dread as if the monster is peering out from the shadows, ready to unleash terror.",
+    "etiquetas": ["terror", "monstruo", "sombra"]
+  },
+  {
+    "name":"Futuristic city at sunset V1",
+    "ia_name":"Krita",
+    "url":"/images/city1.png",
+    "prompt":"A sprawling futuristic city skyline at sunset, with towering skyscrapers, flying cars, and neon lights reflecting off glass surfaces, creating a vibrant atmosphere.",
+    "etiquetas": ["tecnology", "city", "architecture"]
+  },
+  {
+    "name":"Futuristic city at sunset V2",
+    "ia_name":"Krita",
+    "url":"/images/city2.png",
+    "prompt":"A sprawling futuristic city skyline at sunset, with towering skyscrapers, flying cars, and neon lights reflecting off glass surfaces, creating a vibrant atmosphere.",
+    "etiquetas": ["tecnology", "city", "architecture"]
+  },  
+  {
+    "name":"Medieval castle on a mountain V1",
+    "ia_name":"Krita",
+    "url":"/images/castle1.png",
+    "prompt":"A majestic medieval castle perched atop a rugged mountain, surrounded by mist and clouds, with a dramatic sky and a sense of ancient history",
+    "etiquetas": ["medievla", "castle", "architecture"]
+  },
+  {
+    "name":"Medieval castle on a mountain V2",
+    "ia_name":"Krita",
+    "url":"/images/castle2.png",
+    "prompt":"A majestic medieval castle perched atop a rugged mountain, surrounded by mist and clouds, with a dramatic sky and a sense of ancient history",
+    "etiquetas": ["medievla", "castle", "architecture"]
+  },
+  {
+    "name":"Spaceship exploring an unknown planet V1",
+    "ia_name":"Krita",
+    "url":"/images/nave1.png",
+    "prompt":"A sleek spaceship hovering above the surface of an unknown planet, with colorful alien landscapes, strange flora, and distant stars in the background.",
+    "etiquetas":["space", "alien", "UFO"]
+  },
+  {
+    "name":"Spaceship exploring an unknown planet V2",
+    "ia_name":"Krita",
+    "url":"/images/nave2.png",
+    "prompt":"A sleek spaceship hovering above the surface of an unknown planet, with colorful alien landscapes, strange flora, and distant stars in the background.",
+    "etiquetas":["space", "alien", "UFO"]
+  },
+  {
+    "name":"Tropical rainforest with exotic animals V1",
+    "ia_name":"Krita",
+    "url":"/images/selva1.png",
+    "prompt":"A lush tropical rainforest teeming with vibrant wildlife, including colorful birds, monkeys swinging from trees, and dense greenery illuminated by sunlight.",
+    "etiquetas":["selva", "naturaleza", "animales"]
+  },
+  {
+    "name":"Tropical rainforest with exotic animals V2",
+    "ia_name":"Krita",
+    "url":"/images/selva2.png",
+    "prompt":"A lush tropical rainforest teeming with vibrant wildlife, including colorful birds, monkeys swinging from trees, and dense greenery illuminated by sunlight.",
+    "etiquetas":["selva", "naturaleza", "animales"]
+  },
+  {
+    "name":"Samurai warrior in heavy rain V1",
+    "ia_name":"Krita",
+    "url":"/images/samurai1.png",
+    "prompt":"A lone samurai warrior standing in the pouring rain, holding a katana, with traditional armor glistening, surrounded by a misty forest backdrop.",
+    "etiquetas":["samurai", "guerrero", "personas"]
+  },
+  {
+    "name":"Samurai warrior in heavy rain V2",
+    "ia_name":"Krita",
+    "url":"/images/samurai2.png",
+    "prompt":"A lone samurai warrior standing in the pouring rain, holding a katana, with traditional armor glistening, surrounded by a misty forest backdrop.",
+    "etiquetas":["samurai", "guerrero", "personas"]
+  },
+  {
+    "name":"Dragon flying over a lake V1",
+    "ia_name":"Krita",
+    "url":"/images/dragon1.png",
+    "prompt":"A majestic dragon soaring high above a serene lake, its scales shimmering in the sunlight, with mountains in the distance and clouds swirling around.",
+    "etiquetas":["dragon", "mitologia", "paisaje"]
+  },
+  {
+    "name":"Dragon flying over a lake V2",
+    "ia_name":"Krita",
+    "url":"/images/dragon2.png",
+    "prompt":"A majestic dragon soaring high above a serene lake, its scales shimmering in the sunlight, with mountains in the distance and clouds swirling around.",
+    "etiquetas":["dragon", "mitologia", "paisaje"]
+  },
+  {
+    "name":"Retro robot in a post-apocalyptic landscape V1",
+    "ia_name":"Krita",
+    "url":"/images/robot1.png",
+    "prompt":"A retro-style robot wandering through a desolate, post-apocalyptic landscape, surrounded by rusted vehicles and crumbling buildings under a cloudy sky.",
+    "etiquetas":["robot", "apocalipsis", "destruccion"]
+  },
+  {
+    "name":"Retro robot in a post-apocalyptic landscape V2",
+    "ia_name":"Krita",
+    "url":"/images/robot2.png",
+    "prompt":"A retro-style robot wandering through a desolate, post-apocalyptic landscape, surrounded by rusted vehicles and crumbling buildings under a cloudy sky.",
+    "etiquetas":["robot", "apocalipsis", "destruccion"]
+  },
+  {
+    "name":"Knight fighting a giant V1",
+    "ia_name":"Krita",
+    "url":"/images/caballero1.png",
+    "prompt":"A brave knight in shining armor engaged in a fierce battle against a towering giant, with a dramatic background of mountains and stormy skies.",
+    "etiquetas":["caballero", "medieval", "guerra", "personas"]
+  },
+  {
+    "name":"Knight fighting a giant V2",
+    "ia_name":"Krita",
+    "url":"/images/caballero2.png",
+    "prompt":"A brave knight in shining armor engaged in a fierce battle against a towering giant, with a dramatic background of mountains and stormy skies.",
+    "etiquetas":["caballero", "medieval", "guerra", "personas"]
+  },
+  {
+    "name":"Fantasy landscape with floating waterfalls V1",
+    "ia_name":"Krita",
+    "url":"/images/paisaje1.png",
+    "prompt":"A breathtaking fantasy landscape featuring floating waterfalls cascading from rocky cliffs, lush greenery, and colorful plants under a bright blue sky",
+    "etiquetas":["paisaje", "fantasia", "naturaleza"]
+  },
+  {
+    "name":"Fantasy landscape with floating waterfalls V2",
+    "ia_name":"Krita",
+    "url":"/images/paisaje2.png",
+    "prompt":"A breathtaking fantasy landscape featuring floating waterfalls cascading from rocky cliffs, lush greenery, and colorful plants under a bright blue sky",
+    "etiquetas":["paisaje", "fantasia", "naturaleza"]
+  },
+  {
+    "name":"",
+    "ia_name":"Krita",
+    "url":"/images/",
+    "prompt":"",
+    "etiquetas":[]
+  },
+  {
+    "name":"",
+    "ia_name":"Krita",
+    "url":"/images/",
+    "prompt":"",
+    "etiquetas":[]
+  },
+  {
+    "name":"",
+    "ia_name":"Krita",
+    "url":"/images/",
+    "prompt":"",
+    "etiquetas":[]
+  },
+  {
+    "name":"",
+    "ia_name":"Krita",
+    "url":"/images/",
+    "prompt":"",
+    "etiquetas":[]
+  },
+  {
+    "name":"",
+    "ia_name":"Krita",
+    "url":"/images/",
+    "prompt":"",
+    "etiquetas":[]
+  },
+  {
+    "name":"",
+    "ia_name":"Krita",
+    "url":"/images/",
+    "prompt":"",
+    "etiquetas":[]
+  },
+  {
+    "name":"",
+    "ia_name":"Krita",
+    "url":"/images/",
+    "prompt":"",
+    "etiquetas":[]
+  },
+  {
+    "name":"",
+    "ia_name":"Krita",
+    "url":"/images/",
+    "prompt":"",
+    "etiquetas":[]
+  }
+]
