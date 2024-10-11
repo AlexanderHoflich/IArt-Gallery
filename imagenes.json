@@ -154,6 +154,62 @@
     "etiquetas":["paisaje", "fantasia", "naturaleza"]
   },
   {
+    "name":"Ancient temple in a jungle V1",
+    "ia_name":"Krita",
+    "url":"/images/templo1.png",
+    "prompt":"An ancient stone temple hidden deep within a dense jungle, overgrown with vines and surrounded by exotic plants and wildlife, with shafts of light breaking through the canopy.",
+    "etiquetas":["templo", "jungla", "antiguo"]
+  },
+  {
+    "name":"Ancient temple in a jungle V2",
+    "ia_name":"Krita",
+    "url":"/images/templo2.png",
+    "prompt":"An ancient stone temple hidden deep within a dense jungle, overgrown with vines and surrounded by exotic plants and wildlife, with shafts of light breaking through the canopy.",
+    "etiquetas":["templo", "jungla", "antiguo"]
+  },
+  {
+    "name":"Futuristic racing vehicle on a highway V1",
+    "ia_name":"Krita",
+    "url":"/images/auto1.png",
+    "prompt":"A sleek futuristic racing vehicle speeding along a high-tech highway, with glowing lights and a dynamic cityscape in the background.",
+    "etiquetas":["auto", "tecnologia"]
+  },
+  {
+    "name":"Futuristic racing vehicle on a highway V2",
+    "ia_name":"Krita",
+    "url":"/images/auto2.png",
+    "prompt":"A sleek futuristic racing vehicle speeding along a high-tech highway, with glowing lights and a dynamic cityscape in the background.",
+    "etiquetas":["auto", "tecnologia"]
+  },
+  {
+    "name":"Magical library with floating books V1",
+    "ia_name":"Krita",
+    "url":"/images/librero1.png",
+    "prompt":"A grand magical library filled with towering bookshelves, where books are floating in mid-air, glowing softly, with warm lighting and intricate architectural details.",
+    "etiquetas":["libreria", "fantasia", "arquitectura"]
+  },
+  {
+    "name":"Magical library with floating books V2",
+    "ia_name":"Krita",
+    "url":"/images/librero2.png",
+    "prompt":"A grand magical library filled with towering bookshelves, where books are floating in mid-air, glowing softly, with warm lighting and intricate architectural details.",
+    "etiquetas":["libreria", "fantasia", "arquitectura"]
+  },
+  {
+    "name":"Mythical creature emerging from the ocean V1",
+    "ia_name":"Krita",
+    "url":"/images/dragonmarino1.png",
+    "prompt":"A mysterious mythical creature rising from the ocean waves, with shimmering scales and a majestic presence, surrounded by mist and crashing waves.",
+    "etiquetas":["dragon", "mitologia", "paisaje"]
+  },
+  {
+    "name":"Mythical creature emerging from the ocean V2",
+    "ia_name":"Krita",
+    "url":"/images/dragonmarino2.png",
+    "prompt":"A mysterious mythical creature rising from the ocean waves, with shimmering scales and a majestic presence, surrounded by mist and crashing waves.",
+    "etiquetas":["dragon", "mitologia", "paisaje"]
+  },
+  {
     "name":"",
     "ia_name":"Krita",
     "url":"/images/",
